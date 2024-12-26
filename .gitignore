@@ -42,3 +42,6 @@ lib/
 # extras
 cache/
 run_smart_scraper.py
+examples/google_genai/.env.example
+examples/google_genai/.env.example
+examples/google_genai/.env.example
